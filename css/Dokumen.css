@@ -257,7 +257,7 @@ section{
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(../images/Fotosubang3.jpg) no-repeat;
+  background: url(../images/Fotosubang2.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -270,13 +270,15 @@ section{
   font-size: 5rem;
   color: var(--white);
   line-height: 1.2;
+  text-shadow: 2px 2px black
 }
 
 .home .content p{
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   line-height: 2;
   color: var(--white);
   padding: 1rem 0;
+  text-shadow: 2px 2px black
 }
 
 /* ends */
